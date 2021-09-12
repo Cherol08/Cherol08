@@ -10,7 +10,7 @@ I also happen to be a _phenomenal_ ukelele player :guitar: (sarcasm intended).
 
 👯 I’m interested in collaborating on any cool projects so feel free to hit me up!
 
-💬 You're welcome to ask me about anything regard my projects or programming.
+💬 You're welcome to ask me about anything regarding my projects or programming.
 
 📫 If you want to connect, feel free to follow my [twitter](https://twitter.com/CodeGhoul08).
 

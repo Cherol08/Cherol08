@@ -1,6 +1,6 @@
-### Hi there 😊
+![](https://github.com/Cherol08/Cherol08/blob/main/nikon.jpg)
 
-<![](https://github.com/Cherol08/Cherol08/blob/main/nikon.jpg)
+### Hi there 😊
 
 I’m Cherol, The poetic programmer ☺️
 I’m currently doing Software Engineering at HyperionDev focusing on Python and Java, but interested in learning more languages. I'm into photography :camera: and I love writing short stories and poems

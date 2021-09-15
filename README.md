@@ -12,7 +12,8 @@ I also happen to be a _phenomenal_ ukelele player :guitar: (sarcasm intended).
 
 💬 You're welcome to ask me about anything regarding my projects or programming.
 
-📫 If you want to connect, feel free to follow my [twitter](https://twitter.com/CodeGhoul08).
+📫 If you want to connect, feel free to follow my [twitter](https://twitter.com/CodeGhoul08), or check out my [Linkedin](https://www.linkedin.com/in/cherol-phoshoko-429aa421a/) profile.
+
 
 
 😄 Pronouns: She/Her

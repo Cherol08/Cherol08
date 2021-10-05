@@ -18,4 +18,4 @@ I also happen to be a _phenomenal_ ukelele player :guitar: (sarcasm intended).
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I can also draw, so I'm quite artsy for someone uninterested in web development.
+⚡ Fun fact: I can also draw, so I'm quite artsy.

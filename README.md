@@ -3,7 +3,7 @@
 ### Hi there 😊
 
 I’m Cherol, The poetic programmer ☺️
-I’m currently doing Software Engineering at HyperionDev focusing on Python and Java, but interested in learning more languages. I'm into photography :camera: and I love writing short stories and poems
+Just finished a Software Engineering course at HyperionDev where I was focused on Python, Java and SQL. I'm also comfortably familiar with HTML and CSS but I'm interested in learning more languages. I'm into photography :camera: and I love writing short stories and poems
 on my free time :memo:. 
 
 I also happen to be a _phenomenal_ ukelele player :guitar: (sarcasm intended).

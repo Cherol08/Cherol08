@@ -3,7 +3,7 @@
 ### Hi there 😊
 
 I’m Cherol, The poetic programmer ☺️
-Just a regular Software Engineering. Programming languages include Java, python and SQL. I'm also comfortably familiar with HTML, CSS and javascript but. 
+Just a regular Software Engineer. Programming languages include Java, Python and SQL. I'm also comfortably familiar with HTML, CSS and JavaScript. 
 I'm into photography :camera: and I love writing short stories and poems
 on my free time :memo:. 
 

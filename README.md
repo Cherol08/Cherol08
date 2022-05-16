@@ -4,10 +4,6 @@
 
 I’m Cherol, The poetic programmer ☺️
 Just a regular Software Engineer. Programming languages include Java, Python and SQL. I'm also comfortably familiar with HTML, CSS and JavaScript. 
-I'm into photography :camera: and I love writing short stories and poems
-on my free time :memo:. 
-
-I also happen to be a _phenomenal_ ukelele player :guitar: (sarcasm intended).
 
 👯 I’m interested in collaborating on any cool projects so feel free to hit me up!
 
@@ -18,5 +14,3 @@ I also happen to be a _phenomenal_ ukelele player :guitar: (sarcasm intended).
 
 
 😄 Pronouns: She/Her
-
-⚡ Fun fact: I can also draw, so I'm quite artsy.

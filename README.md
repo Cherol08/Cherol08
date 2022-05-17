@@ -9,7 +9,7 @@ Just a regular Software Engineer. Programming languages include Java, Python and
 
 💬 You're welcome to ask me about anything regarding my projects or programming.
 
-📫 If you want to connect, feel free to follow my [twitter](https://twitter.com/CodeGhoul08), or check out my [Linkedin](https://www.linkedin.com/in/cherol-phoshoko-429aa421a/) profile.
+📫 If you want to connect, feel free to follow my [twitter](https://twitter.com/CodeGhoul08), check out my [Linkedin](https://www.linkedin.com/in/cherol-phoshoko-429aa421a/) profile or my developer [website](https://cherol08.github.io/Cherol_Phoshoko_resume/).
 
 
 

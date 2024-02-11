@@ -8,13 +8,15 @@ I'm Cherol.
 I'm a Full-stack Web Developer
 ------------------------------
 
-Pronouns: She/Her😄
+I have been coding for over 4 years now. I started with Python and Java but in my current role, I mainly work with Python.
+I work at a location intelligence company, specializing in geospatial data analysis and maintenance, including map editing and more.
+This puts me more on the backend working mostly with Linux operating systems, Docker, Postgresql and SQL Server databases.
+I often do frontend projects as a part of project POCs, which has improved my javascript and node skills, with frameworks such as React.
 
-I have been coding for over 2 years now. I started with Python and Java but my languages have expanded to HTML, CSS and JavaScript. I do however, have deep passion for backend development, using technologies like java, python and node.
+Most of our projects are on private GitLab repositories, so I no longer use Github as often. 
 
-* 🖥️  See my portfolio at [Cherol\_Phoshoko](http://cherol08.github.io/Cherol_Phoshoko_resume/)
+* 🖥️  See my portfolio at [Cherol\_Phoshoko](https://cherol-phoshoko.netlify.app/)
 * ✉️  You can contact me at [leelo.cherol@gmail.com](mailto:leelo.cherol@gmail.com)
-* 🧠  I'm learning the spring framework
 * 🤝  I'm open to collaborating on any interesting projects, feel free to reach out for collaboration.
 
 ### Skills
